@@ -1,3 +1,3 @@
 # Hello-World
 First project in GitHub
-This the first update on GitHub.
+This is the first update on GitHub.
